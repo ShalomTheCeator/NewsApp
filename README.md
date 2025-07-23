@@ -1,4 +1,4 @@
-# 📰 Expo News App
+# 📰 News App
 
 A full-featured, mobile-first news application built using **React Native (Expo)**. This app delivers personalized news updates, allows user interaction through comments and reactions, and integrates with Firebase, NewsAPI, and OpenAI for a rich, intelligent experience.
 
