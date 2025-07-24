@@ -83,13 +83,18 @@ This app is optimized for **Expo Go** to enable rapid development and cross-plat
 ## 🧑‍💻 Contributing
 ### Contributions are welcome!
 
+---
+
 
 ## 📄 License
 ### This project is open-source and available under the MIT License.
 
+---
+
 ## 🙋 Contact
 ### Made with ❤️ by Shalom
-GitHub: @ShalomTheCreator
-Twitter: @lucasmteo499
-Email: shalompremiumdomains@gmail.com
-"""
+### GitHub: @ShalomTheCreator
+### Twitter: @lucasmteo499
+### Email: shalompremiumdomains@gmail.com
+
+---
