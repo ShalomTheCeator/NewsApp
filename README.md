@@ -79,148 +79,17 @@ This app is optimized for **Expo Go** to enable rapid development and cross-plat
 
 ---
 
-## 📦 Installation Guide
 
-### Prerequisites
+## 🧑‍💻 Contributing
+# Contributions are welcome!
 
-- Node.js & npm
-- Expo CLI:  
-  ```bash
-  npm install -g expo-cli
-  #  Clone the Repository
-Clone the Repository
-bash
-Always show details
 
-Copy
-git clone https://github.com/YOUR_USERNAME/NewsApp.git
-cd NewsApp
-2. Install Dependencies
-bash
-Always show details
+## 📄 License
+# This project is open-source and available under the MIT License.
 
-Copy
-npm install
-# or
-yarn install
-3. Configure Environment
-Open config/firebaseConfig.js and paste your Firebase credentials
-
-Create a .env file for NewsAPI and OpenAI keys (optional if hardcoded)
-
-js
-Always show details
-
-Copy
-// config/firebaseConfig.js
-export const firebaseConfig = {
-  apiKey: 'YOUR_API_KEY',
-  authDomain: 'YOUR_PROJECT_ID.firebaseapp.com',
-  ...
-};
-js
-Always show details
-
-Copy
-// services/newsService.js
-const NEWS_API_KEY = 'YOUR_NEWSAPI_KEY';
-4. Start Development Server
-bash
-Always show details
-
-Copy
-npx expo start
-Scan the QR code using the Expo Go app on your Android/iOS device
-
-App loads instantly
-
-📂 Project Structure
-arduino
-Always show details
-
-Copy
-NewsApp/
-├── App.js
-├── navigation.js
-├── theme.js
-├── styles.js
-│
-├── components/
-│   ├── SearchBar.js
-│   ├── CategoryTabs.js
-│   ├── NewsItem.js
-│   └── BookmarkButton.js
-│
-├── screens/
-│   ├── HomeScreen.js
-│   ├── LoginScreen.js
-│   ├── SignupScreen.js
-│   ├── ArticleDetailScreen.js
-│   ├── SavedNewsScreen.js
-│   └── ProfileScreen.js
-│
-├── config/
-│   └── firebaseConfig.js
-│
-├── services/
-│   ├── newsService.js
-│   └── aiService.js
-│
-├── assets/
-└── README.md
-🚀 Deployment (Optional)
-To publish the app:
-
-bash
-Always show details
-
-Copy
-npx expo build:android
-npx expo build:ios
-Or upload directly to Play Store using eas submit with EAS Build.
-
-🧪 Testing
-Expo Go for real device testing
-
-Use mock API keys in development
-
-Test both light and dark modes manually
-
-Firestore rules can be tested using Firebase Emulator Suite
-
-🗺 Future Roadmap
- Admin CMS for content moderation
-
- Offline news reading
-
- Bookmark sync across devices
-
- Comment threading
-
- Share articles via social media
-
- Multi-language support (i18n)
-
- In-app settings screen
-
-📸 Screenshots
-Add screenshots of HomeScreen, Article view, Bookmark list, etc.
-
-🧑‍💻 Contributing
-Contributions are welcome! Here's how you can help:
-
-Submit pull requests for features or bug fixes
-
-Create issues for suggestions or bugs
-
-Fork the repo and start hacking 🚀
-
-📄 License
-This project is open-source and available under the MIT License.
-
-🙋 Contact
-Made with ❤️ by [Your Name]
-GitHub: @yourusername
-Twitter: @yourhandle
-Email: your@email.com
+## 🙋 Contact
+# Made with ❤️ by Shalom
+# GitHub: @ShalomTheCreator
+# Twitter: @lucasmteo499
+# Email: shalompremiumdomains@gmail.com
 """
