@@ -94,7 +94,6 @@ This app is optimized for **Expo Go** to enable rapid development and cross-plat
 ## 🙋 Contact
 ### Made with ❤️ by Shalom
 ### GitHub: @ShalomTheCreator
-### Twitter: @lucasmteo499
-### Email: shalompremiumdomains@gmail.com
+### Email: peaceshalom590@gmail.com
 
 ---
